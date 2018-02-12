@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "vanillaexpanded:block_dev" }
+    }
+}

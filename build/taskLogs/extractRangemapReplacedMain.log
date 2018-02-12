@@ -1,0 +1,32 @@
+Symbol range map extraction starting
+Processing 10 files
+startProcessing "me\orangeflare\vanillaexpanded\IHasModel.java" md5: 9ffe149671dd9d5a1fcc1a910faca685
+endProcessing "me\orangeflare\vanillaexpanded\IHasModel.java"
+
+startProcessing "me\orangeflare\vanillaexpanded\INFO.java" md5: 5b00de980299e20c7b03e3d192373619
+endProcessing "me\orangeflare\vanillaexpanded\INFO.java"
+
+startProcessing "me\orangeflare\vanillaexpanded\Main.java" md5: 5ecd76e3dde8d86359cd4ebdd32ec368
+endProcessing "me\orangeflare\vanillaexpanded\Main.java"
+
+startProcessing "me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java" md5: 667162be9c763b68996625be9e16a906
+endProcessing "me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java"
+
+startProcessing "me\orangeflare\vanillaexpanded\init\BlockInit.java" md5: 419c96faff351b9b9fb4a32a0ddcfa85
+endProcessing "me\orangeflare\vanillaexpanded\init\BlockInit.java"
+
+startProcessing "me\orangeflare\vanillaexpanded\init\ItemInit.java" md5: 7232f9886d8adf535a513b70c595e071
+endProcessing "me\orangeflare\vanillaexpanded\init\ItemInit.java"
+
+startProcessing "me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java" md5: c1edf8e334767d133308a1c18b52b576
+endProcessing "me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java"
+
+startProcessing "me\orangeflare\vanillaexpanded\objects\items\ItemBase.java" md5: 7f7df327102c9a13bf43f22f5ab29add
+endProcessing "me\orangeflare\vanillaexpanded\objects\items\ItemBase.java"
+
+startProcessing "me\orangeflare\vanillaexpanded\proxies\ClientProxy.java" md5: 30a32dea55ef82062f3ae0b009f3a9ce
+endProcessing "me\orangeflare\vanillaexpanded\proxies\ClientProxy.java"
+
+startProcessing "me\orangeflare\vanillaexpanded\proxies\CommonProxy.java" md5: 603e064024b7d315efa13a81a24ca60d
+endProcessing "me\orangeflare\vanillaexpanded\proxies\CommonProxy.java"
+

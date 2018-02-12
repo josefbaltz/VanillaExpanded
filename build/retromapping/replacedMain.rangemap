@@ -1,0 +1,319 @@
+Symbol range map extraction starting
+Processing 10 files
+startProcessing "me\orangeflare\vanillaexpanded\IHasModel.java" md5: 9ffe149671dd9d5a1fcc1a910faca685
+@|me\orangeflare\vanillaexpanded\IHasModel.java|8|38|me.orangeflare.vanillaexpanded|package|me.orangeflare.vanillaexpanded|(file)
+Class Start: me.orangeflare.vanillaexpanded.IHasModel
+   @|me\orangeflare\vanillaexpanded\IHasModel.java|58|67|IHasModel|class|me.orangeflare.vanillaexpanded.IHasModel
+   Method Start: registerModels()V
+      @|me\orangeflare\vanillaexpanded\IHasModel.java|85|99|registerModels|method|me.orangeflare.vanillaexpanded.IHasModel|registerModels|()V
+   Method End: registerModels()V
+Class End  : me.orangeflare.vanillaexpanded.IHasModel
+endProcessing "me\orangeflare\vanillaexpanded\IHasModel.java"
+
+startProcessing "me\orangeflare\vanillaexpanded\INFO.java" md5: 5b00de980299e20c7b03e3d192373619
+@|me\orangeflare\vanillaexpanded\INFO.java|8|38|me.orangeflare.vanillaexpanded|package|me.orangeflare.vanillaexpanded|(file)
+Class Start: me.orangeflare.vanillaexpanded.INFO
+   @|me\orangeflare\vanillaexpanded\INFO.java|54|58|INFO|class|me.orangeflare.vanillaexpanded.INFO
+   @|me\orangeflare\vanillaexpanded\INFO.java|85|91|String|class|java.lang.String
+   @|me\orangeflare\vanillaexpanded\INFO.java|85|91|String|class|java.lang.String
+   @|me\orangeflare\vanillaexpanded\INFO.java|92|97|MODID|field|me.orangeflare.vanillaexpanded.INFO|MODID|
+   @|me\orangeflare\vanillaexpanded\INFO.java|143|149|String|class|java.lang.String
+   @|me\orangeflare\vanillaexpanded\INFO.java|143|149|String|class|java.lang.String
+   @|me\orangeflare\vanillaexpanded\INFO.java|150|154|NAME|field|me.orangeflare.vanillaexpanded.INFO|NAME|
+   @|me\orangeflare\vanillaexpanded\INFO.java|201|207|String|class|java.lang.String
+   @|me\orangeflare\vanillaexpanded\INFO.java|201|207|String|class|java.lang.String
+   @|me\orangeflare\vanillaexpanded\INFO.java|208|215|VERSION|field|me.orangeflare.vanillaexpanded.INFO|VERSION|
+   @|me\orangeflare\vanillaexpanded\INFO.java|253|259|String|class|java.lang.String
+   @|me\orangeflare\vanillaexpanded\INFO.java|253|259|String|class|java.lang.String
+   @|me\orangeflare\vanillaexpanded\INFO.java|260|266|CLIENT|field|me.orangeflare.vanillaexpanded.INFO|CLIENT|
+   @|me\orangeflare\vanillaexpanded\INFO.java|347|353|String|class|java.lang.String
+   @|me\orangeflare\vanillaexpanded\INFO.java|347|353|String|class|java.lang.String
+   @|me\orangeflare\vanillaexpanded\INFO.java|354|360|COMMON|field|me.orangeflare.vanillaexpanded.INFO|COMMON|
+Class End  : me.orangeflare.vanillaexpanded.INFO
+endProcessing "me\orangeflare\vanillaexpanded\INFO.java"
+
+startProcessing "me\orangeflare\vanillaexpanded\Main.java" md5: 5ecd76e3dde8d86359cd4ebdd32ec368
+@|me\orangeflare\vanillaexpanded\Main.java|8|38|me.orangeflare.vanillaexpanded|package|me.orangeflare.vanillaexpanded|(file)
+Class Start: me.orangeflare.vanillaexpanded.Main
+   @|me\orangeflare\vanillaexpanded\Main.java|401|404|Mod|class|net.minecraftforge.fml.common.Mod
+   @|me\orangeflare\vanillaexpanded\Main.java|405|410|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|me\orangeflare\vanillaexpanded\Main.java|413|417|INFO|class|me.orangeflare.vanillaexpanded.INFO
+   @|me\orangeflare\vanillaexpanded\Main.java|418|423|MODID|field|me.orangeflare.vanillaexpanded.INFO|MODID
+   @|me\orangeflare\vanillaexpanded\Main.java|425|429|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|me\orangeflare\vanillaexpanded\Main.java|432|436|INFO|class|me.orangeflare.vanillaexpanded.INFO
+   @|me\orangeflare\vanillaexpanded\Main.java|437|441|NAME|field|me.orangeflare.vanillaexpanded.INFO|NAME
+   @|me\orangeflare\vanillaexpanded\Main.java|443|450|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|me\orangeflare\vanillaexpanded\Main.java|453|457|INFO|class|me.orangeflare.vanillaexpanded.INFO
+   @|me\orangeflare\vanillaexpanded\Main.java|458|465|VERSION|field|me.orangeflare.vanillaexpanded.INFO|VERSION
+   @|me\orangeflare\vanillaexpanded\Main.java|480|484|Main|class|me.orangeflare.vanillaexpanded.Main
+   @|me\orangeflare\vanillaexpanded\Main.java|523|527|Main|class|me.orangeflare.vanillaexpanded.Main
+   @|me\orangeflare\vanillaexpanded\Main.java|492|504|Mod.Instance|class|net.minecraftforge.fml.common.Mod.Instance
+   @|me\orangeflare\vanillaexpanded\Main.java|523|527|Main|class|me.orangeflare.vanillaexpanded.Main
+   @|me\orangeflare\vanillaexpanded\Main.java|528|536|instance|field|me.orangeflare.vanillaexpanded.Main|instance|
+   @|me\orangeflare\vanillaexpanded\Main.java|625|636|CommonProxy|class|me.orangeflare.vanillaexpanded.proxies.CommonProxy
+   @|me\orangeflare\vanillaexpanded\Main.java|544|554|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy
+   @|me\orangeflare\vanillaexpanded\Main.java|555|565|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|me\orangeflare\vanillaexpanded\Main.java|568|572|INFO|class|me.orangeflare.vanillaexpanded.INFO
+   @|me\orangeflare\vanillaexpanded\Main.java|573|579|CLIENT|field|me.orangeflare.vanillaexpanded.INFO|CLIENT
+   @|me\orangeflare\vanillaexpanded\Main.java|581|591|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|me\orangeflare\vanillaexpanded\Main.java|594|598|INFO|class|me.orangeflare.vanillaexpanded.INFO
+   @|me\orangeflare\vanillaexpanded\Main.java|599|605|COMMON|field|me.orangeflare.vanillaexpanded.INFO|COMMON
+   @|me\orangeflare\vanillaexpanded\Main.java|625|636|CommonProxy|class|me.orangeflare.vanillaexpanded.proxies.CommonProxy
+   @|me\orangeflare\vanillaexpanded\Main.java|637|642|proxy|field|me.orangeflare.vanillaexpanded.Main|proxy|
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|me\orangeflare\vanillaexpanded\Main.java|724|729|event|param|me.orangeflare.vanillaexpanded.Main|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|me\orangeflare\vanillaexpanded\Main.java|650|666|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|me\orangeflare\vanillaexpanded\Main.java|690|697|preInit|method|me.orangeflare.vanillaexpanded.Main|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|me\orangeflare\vanillaexpanded\Main.java|698|723|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|me\orangeflare\vanillaexpanded\Main.java|812|817|event|param|me.orangeflare.vanillaexpanded.Main|preInit|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|me\orangeflare\vanillaexpanded\Main.java|741|757|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|me\orangeflare\vanillaexpanded\Main.java|781|788|preInit|method|me.orangeflare.vanillaexpanded.Main|preInit|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|me\orangeflare\vanillaexpanded\Main.java|789|811|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|me\orangeflare\vanillaexpanded\Main.java|904|909|event|param|me.orangeflare.vanillaexpanded.Main|preInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+      @|me\orangeflare\vanillaexpanded\Main.java|829|845|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|me\orangeflare\vanillaexpanded\Main.java|869|876|preInit|method|me.orangeflare.vanillaexpanded.Main|preInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|me\orangeflare\vanillaexpanded\Main.java|877|903|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : me.orangeflare.vanillaexpanded.Main
+endProcessing "me\orangeflare\vanillaexpanded\Main.java"
+
+startProcessing "me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java" md5: 667162be9c763b68996625be9e16a906
+@|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|8|47|me.orangeflare.vanillaexpanded.handlers|package|me.orangeflare.vanillaexpanded.handlers|(file)
+Class Start: me.orangeflare.vanillaexpanded.handlers.RegistryHandler
+   @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|488|510|Mod.EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber
+   @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|524|539|RegistryHandler|class|me.orangeflare.vanillaexpanded.handlers.RegistryHandler
+   Method Start: onItemRegister(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|629|634|event|param|me.orangeflare.vanillaexpanded.handlers.RegistryHandler|onItemRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|547|561|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|585|599|onItemRegister|method|me.orangeflare.vanillaexpanded.handlers.RegistryHandler|onItemRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|600|622|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|623|627|Item|class|net.minecraft.item.Item
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|646|651|event|param|me.orangeflare.vanillaexpanded.handlers.RegistryHandler|onItemRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|652|663|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|666|677|registerAll|method|net.minecraftforge.registries.IForgeRegistry|registerAll|([Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|678|686|ItemInit|class|me.orangeflare.vanillaexpanded.init.ItemInit
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|687|692|ITEMS|field|me.orangeflare.vanillaexpanded.init.ItemInit|ITEMS
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|693|700|toArray|method|java.util.Collection|toArray|([Ljava/lang/Object;)[Ljava/lang/Object;
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|705|709|Item|class|net.minecraft.item.Item
+   Method End: onItemRegister(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Method Start: onBlockRegister(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|812|817|event|param|me.orangeflare.vanillaexpanded.handlers.RegistryHandler|onBlockRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|728|742|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|766|781|onBlockRegister|method|me.orangeflare.vanillaexpanded.handlers.RegistryHandler|onBlockRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|782|804|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|805|810|Block|class|net.minecraft.block.Block
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|829|834|event|param|me.orangeflare.vanillaexpanded.handlers.RegistryHandler|onBlockRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|835|846|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|849|860|registerAll|method|net.minecraftforge.registries.IForgeRegistry|registerAll|([Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|861|870|BlockInit|class|me.orangeflare.vanillaexpanded.init.BlockInit
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|871|877|BLOCKS|field|me.orangeflare.vanillaexpanded.init.BlockInit|BLOCKS
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|878|885|toArray|method|java.util.Collection|toArray|([Ljava/lang/Object;)[Ljava/lang/Object;
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|890|895|Block|class|net.minecraft.block.Block
+   Method End: onBlockRegister(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Method Start: onModelRegister(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|987|992|event|param|me.orangeflare.vanillaexpanded.handlers.RegistryHandler|onModelRegister|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V|event|0
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|914|928|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|952|967|onModelRegister|method|me.orangeflare.vanillaexpanded.handlers.RegistryHandler|onModelRegister|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|968|986|ModelRegistryEvent|class|net.minecraftforge.client.event.ModelRegistryEvent
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|1008|1012|Item|class|net.minecraft.item.Item
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|1020|1028|ItemInit|class|me.orangeflare.vanillaexpanded.init.ItemInit
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|1029|1034|ITEMS|field|me.orangeflare.vanillaexpanded.init.ItemInit|ITEMS
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|1069|1078|IHasModel|class|me.orangeflare.vanillaexpanded.IHasModel
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|1100|1109|IHasModel|class|me.orangeflare.vanillaexpanded.IHasModel
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|1116|1130|registerModels|method|me.orangeflare.vanillaexpanded.IHasModel|registerModels|()V
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|1171|1176|Block|class|net.minecraft.block.Block
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|1185|1194|BlockInit|class|me.orangeflare.vanillaexpanded.init.BlockInit
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|1195|1201|BLOCKS|field|me.orangeflare.vanillaexpanded.init.BlockInit|BLOCKS
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|1237|1246|IHasModel|class|me.orangeflare.vanillaexpanded.IHasModel
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|1268|1277|IHasModel|class|me.orangeflare.vanillaexpanded.IHasModel
+      @|me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java|1285|1299|registerModels|method|me.orangeflare.vanillaexpanded.IHasModel|registerModels|()V
+   Method End: onModelRegister(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+Class End  : me.orangeflare.vanillaexpanded.handlers.RegistryHandler
+endProcessing "me\orangeflare\vanillaexpanded\handlers\RegistryHandler.java"
+
+startProcessing "me\orangeflare\vanillaexpanded\init\BlockInit.java" md5: 419c96faff351b9b9fb4a32a0ddcfa85
+@|me\orangeflare\vanillaexpanded\init\BlockInit.java|8|43|me.orangeflare.vanillaexpanded.init|package|me.orangeflare.vanillaexpanded.init|(file)
+Class Start: me.orangeflare.vanillaexpanded.init.BlockInit
+   @|me\orangeflare\vanillaexpanded\init\BlockInit.java|256|265|BlockInit|class|me.orangeflare.vanillaexpanded.init.BlockInit
+   @|me\orangeflare\vanillaexpanded\init\BlockInit.java|297|302|Block|class|net.minecraft.block.Block
+   @|me\orangeflare\vanillaexpanded\init\BlockInit.java|292|296|List|class|java.util.List
+   @|me\orangeflare\vanillaexpanded\init\BlockInit.java|292|296|List|class|java.util.List
+   @|me\orangeflare\vanillaexpanded\init\BlockInit.java|297|302|Block|class|net.minecraft.block.Block
+   @|me\orangeflare\vanillaexpanded\init\BlockInit.java|304|310|BLOCKS|field|me.orangeflare.vanillaexpanded.init.BlockInit|BLOCKS|
+   @|me\orangeflare\vanillaexpanded\init\BlockInit.java|317|326|ArrayList|class|java.util.ArrayList
+   @|me\orangeflare\vanillaexpanded\init\BlockInit.java|327|332|Block|class|net.minecraft.block.Block
+   @|me\orangeflare\vanillaexpanded\init\BlockInit.java|362|367|Block|class|net.minecraft.block.Block
+   @|me\orangeflare\vanillaexpanded\init\BlockInit.java|362|367|Block|class|net.minecraft.block.Block
+   @|me\orangeflare\vanillaexpanded\init\BlockInit.java|368|377|BLOCK_DEV|field|me.orangeflare.vanillaexpanded.init.BlockInit|BLOCK_DEV|
+   @|me\orangeflare\vanillaexpanded\init\BlockInit.java|384|393|BlockBase|class|me.orangeflare.vanillaexpanded.objects.blocks.BlockBase
+   @|me\orangeflare\vanillaexpanded\init\BlockInit.java|407|415|Material|class|net.minecraft.block.material.Material
+   @|me\orangeflare\vanillaexpanded\init\BlockInit.java|416|420|ROCK|field|net.minecraft.block.material.Material|ROCK
+Class End  : me.orangeflare.vanillaexpanded.init.BlockInit
+endProcessing "me\orangeflare\vanillaexpanded\init\BlockInit.java"
+
+startProcessing "me\orangeflare\vanillaexpanded\init\ItemInit.java" md5: 7232f9886d8adf535a513b70c595e071
+@|me\orangeflare\vanillaexpanded\init\ItemInit.java|8|43|me.orangeflare.vanillaexpanded.init|package|me.orangeflare.vanillaexpanded.init|(file)
+Class Start: me.orangeflare.vanillaexpanded.init.ItemInit
+   @|me\orangeflare\vanillaexpanded\init\ItemInit.java|206|214|ItemInit|class|me.orangeflare.vanillaexpanded.init.ItemInit
+   @|me\orangeflare\vanillaexpanded\init\ItemInit.java|246|250|Item|class|net.minecraft.item.Item
+   @|me\orangeflare\vanillaexpanded\init\ItemInit.java|241|245|List|class|java.util.List
+   @|me\orangeflare\vanillaexpanded\init\ItemInit.java|241|245|List|class|java.util.List
+   @|me\orangeflare\vanillaexpanded\init\ItemInit.java|246|250|Item|class|net.minecraft.item.Item
+   @|me\orangeflare\vanillaexpanded\init\ItemInit.java|252|257|ITEMS|field|me.orangeflare.vanillaexpanded.init.ItemInit|ITEMS|
+   @|me\orangeflare\vanillaexpanded\init\ItemInit.java|264|273|ArrayList|class|java.util.ArrayList
+   @|me\orangeflare\vanillaexpanded\init\ItemInit.java|274|278|Item|class|net.minecraft.item.Item
+   @|me\orangeflare\vanillaexpanded\init\ItemInit.java|308|312|Item|class|net.minecraft.item.Item
+   @|me\orangeflare\vanillaexpanded\init\ItemInit.java|308|312|Item|class|net.minecraft.item.Item
+   @|me\orangeflare\vanillaexpanded\init\ItemInit.java|313|321|ITEM_DEV|field|me.orangeflare.vanillaexpanded.init.ItemInit|ITEM_DEV|
+   @|me\orangeflare\vanillaexpanded\init\ItemInit.java|328|336|ItemBase|class|me.orangeflare.vanillaexpanded.objects.items.ItemBase
+Class End  : me.orangeflare.vanillaexpanded.init.ItemInit
+endProcessing "me\orangeflare\vanillaexpanded\init\ItemInit.java"
+
+startProcessing "me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java" md5: c1edf8e334767d133308a1c18b52b576
+@|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|8|53|me.orangeflare.vanillaexpanded.objects.blocks|package|me.orangeflare.vanillaexpanded.objects.blocks|(file)
+Class Start: me.orangeflare.vanillaexpanded.objects.blocks.BlockBase
+   @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|466|475|BlockBase|class|me.orangeflare.vanillaexpanded.objects.blocks.BlockBase
+   @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|484|489|Block|class|net.minecraft.block.Block
+   @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|501|510|IHasModel|class|me.orangeflare.vanillaexpanded.IHasModel
+   Method Start: BlockBase(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|541|545|name|param|me.orangeflare.vanillaexpanded.objects.blocks.BlockBase|BlockBase|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|name|0
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|556|564|material|param|me.orangeflare.vanillaexpanded.objects.blocks.BlockBase|BlockBase|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|material|1
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|524|533|BlockBase|method|me.orangeflare.vanillaexpanded.objects.blocks.BlockBase|BlockBase|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|534|540|String|class|java.lang.String
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|547|555|Material|class|net.minecraft.block.material.Material
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|582|590|material|param|me.orangeflare.vanillaexpanded.objects.blocks.BlockBase|BlockBase|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|material|1
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|601|619|setUnlocalizedName|method|net.minecraft.block.Block|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|620|624|name|param|me.orangeflare.vanillaexpanded.objects.blocks.BlockBase|BlockBase|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|name|0
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|635|650|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|651|655|name|param|me.orangeflare.vanillaexpanded.objects.blocks.BlockBase|BlockBase|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|name|0
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|666|680|setCreativeTab|method|net.minecraft.block.Block|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|681|693|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|694|709|BUILDING_BLOCKS|field|net.minecraft.creativetab.CreativeTabs|BUILDING_BLOCKS
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|721|730|BlockInit|class|me.orangeflare.vanillaexpanded.init.BlockInit
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|731|737|BLOCKS|field|me.orangeflare.vanillaexpanded.init.BlockInit|BLOCKS
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|738|741|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|757|765|ItemInit|class|me.orangeflare.vanillaexpanded.init.ItemInit
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|766|771|ITEMS|field|me.orangeflare.vanillaexpanded.init.ItemInit|ITEMS
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|772|775|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|780|789|ItemBlock|class|net.minecraft.item.ItemBlock
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|796|811|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|setRegistryName|(Lnet/minecraft/util/ResourceLocation;)Ljava/lang/Object;
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|817|832|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+   Method End: BlockBase(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V
+   Method Start: registerModels()V
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|850|858|Override|class|java.lang.Override
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|875|889|registerModels|method|me.orangeflare.vanillaexpanded.IHasModel|registerModels|()V
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|902|906|Main|class|me.orangeflare.vanillaexpanded.Main
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|907|912|proxy|field|me.orangeflare.vanillaexpanded.Main|proxy
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|913|933|registerItemRenderer|method|me.orangeflare.vanillaexpanded.proxies.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|934|938|Item|class|net.minecraft.item.Item
+      @|me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java|939|955|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+   Method End: registerModels()V
+Class End  : me.orangeflare.vanillaexpanded.objects.blocks.BlockBase
+endProcessing "me\orangeflare\vanillaexpanded\objects\blocks\BlockBase.java"
+
+startProcessing "me\orangeflare\vanillaexpanded\objects\items\ItemBase.java" md5: 7f7df327102c9a13bf43f22f5ab29add
+@|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|8|52|me.orangeflare.vanillaexpanded.objects.items|package|me.orangeflare.vanillaexpanded.objects.items|(file)
+Class Start: me.orangeflare.vanillaexpanded.objects.items.ItemBase
+   @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|294|302|ItemBase|class|me.orangeflare.vanillaexpanded.objects.items.ItemBase
+   @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|311|315|Item|class|net.minecraft.item.Item
+   @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|327|336|IHasModel|class|me.orangeflare.vanillaexpanded.IHasModel
+   Method Start: ItemBase(Ljava/lang/String;)V
+      @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|365|369|name|param|me.orangeflare.vanillaexpanded.objects.items.ItemBase|ItemBase|(Ljava/lang/String;)V|name|0
+      @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|349|357|ItemBase|method|me.orangeflare.vanillaexpanded.objects.items.ItemBase|ItemBase|(Ljava/lang/String;)V
+      @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|358|364|String|class|java.lang.String
+      @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|380|398|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|399|403|name|param|me.orangeflare.vanillaexpanded.objects.items.ItemBase|ItemBase|(Ljava/lang/String;)V|name|0
+      @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|414|429|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|430|434|name|param|me.orangeflare.vanillaexpanded.objects.items.ItemBase|ItemBase|(Ljava/lang/String;)V|name|0
+      @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|445|459|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|460|472|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs
+      @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|473|477|MISC|field|net.minecraft.creativetab.CreativeTabs|MISC
+      @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|488|496|ItemInit|class|me.orangeflare.vanillaexpanded.init.ItemInit
+      @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|497|502|ITEMS|field|me.orangeflare.vanillaexpanded.init.ItemInit|ITEMS
+      @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|503|506|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   Method End: ItemBase(Ljava/lang/String;)V
+   Method Start: registerModels()V
+      @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|526|534|Override|class|java.lang.Override
+      @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|551|565|registerModels|method|me.orangeflare.vanillaexpanded.IHasModel|registerModels|()V
+      @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|577|581|Main|class|me.orangeflare.vanillaexpanded.Main
+      @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|582|587|proxy|field|me.orangeflare.vanillaexpanded.Main|proxy
+      @|me\orangeflare\vanillaexpanded\objects\items\ItemBase.java|588|608|registerItemRenderer|method|me.orangeflare.vanillaexpanded.proxies.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+   Method End: registerModels()V
+Class End  : me.orangeflare.vanillaexpanded.objects.items.ItemBase
+endProcessing "me\orangeflare\vanillaexpanded\objects\items\ItemBase.java"
+
+startProcessing "me\orangeflare\vanillaexpanded\proxies\ClientProxy.java" md5: 30a32dea55ef82062f3ae0b009f3a9ce
+@|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|8|46|me.orangeflare.vanillaexpanded.proxies|package|me.orangeflare.vanillaexpanded.proxies|(file)
+Class Start: me.orangeflare.vanillaexpanded.proxies.ClientProxy
+   @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|307|318|ClientProxy|class|me.orangeflare.vanillaexpanded.proxies.ClientProxy
+   @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|327|338|CommonProxy|class|me.orangeflare.vanillaexpanded.proxies.CommonProxy
+   Method Start: registerItemRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|397|401|item|param|me.orangeflare.vanillaexpanded.proxies.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|407|411|meta|param|me.orangeflare.vanillaexpanded.proxies.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|meta|1
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|420|422|id|param|me.orangeflare.vanillaexpanded.proxies.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|id|2
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|346|354|Override|class|java.lang.Override
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|371|391|registerItemRenderer|method|me.orangeflare.vanillaexpanded.proxies.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|392|396|Item|class|net.minecraft.item.Item
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|413|419|String|class|java.lang.String
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|438|449|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|450|480|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|481|485|item|param|me.orangeflare.vanillaexpanded.proxies.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|487|491|meta|param|me.orangeflare.vanillaexpanded.proxies.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|meta|1
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|497|518|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|519|523|item|param|me.orangeflare.vanillaexpanded.proxies.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|524|539|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|543|545|id|param|me.orangeflare.vanillaexpanded.proxies.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|id|2
+   Method End: registerItemRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+   Method Start: registerVariantRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;Ljava/lang/String;)V
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|615|619|item|param|me.orangeflare.vanillaexpanded.proxies.ClientProxy|registerVariantRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;Ljava/lang/String;)V|item|0
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|625|629|meta|param|me.orangeflare.vanillaexpanded.proxies.ClientProxy|registerVariantRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;Ljava/lang/String;)V|meta|1
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|638|646|filename|param|me.orangeflare.vanillaexpanded.proxies.ClientProxy|registerVariantRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;Ljava/lang/String;)V|filename|2
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|655|657|id|param|me.orangeflare.vanillaexpanded.proxies.ClientProxy|registerVariantRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;Ljava/lang/String;)V|id|3
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|561|569|Override|class|java.lang.Override
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|586|609|registerVariantRenderer|method|me.orangeflare.vanillaexpanded.proxies.CommonProxy|registerVariantRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;Ljava/lang/String;)V
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|610|614|Item|class|net.minecraft.item.Item
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|631|637|String|class|java.lang.String
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|648|654|String|class|java.lang.String
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|673|684|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|685|715|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|716|720|item|param|me.orangeflare.vanillaexpanded.proxies.ClientProxy|registerVariantRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;Ljava/lang/String;)V|item|0
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|722|726|meta|param|me.orangeflare.vanillaexpanded.proxies.ClientProxy|registerVariantRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;Ljava/lang/String;)V|meta|1
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|732|753|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|758|774|ResourceLocation|class|net.minecraft.util.ResourceLocation
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|775|779|INFO|class|me.orangeflare.vanillaexpanded.INFO
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|780|785|MODID|field|me.orangeflare.vanillaexpanded.INFO|MODID
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|787|795|filename|param|me.orangeflare.vanillaexpanded.proxies.ClientProxy|registerVariantRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;Ljava/lang/String;)V|filename|2
+      @|me\orangeflare\vanillaexpanded\proxies\ClientProxy.java|798|800|id|param|me.orangeflare.vanillaexpanded.proxies.ClientProxy|registerVariantRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;Ljava/lang/String;)V|id|3
+   Method End: registerVariantRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;Ljava/lang/String;)V
+Class End  : me.orangeflare.vanillaexpanded.proxies.ClientProxy
+endProcessing "me\orangeflare\vanillaexpanded\proxies\ClientProxy.java"
+
+startProcessing "me\orangeflare\vanillaexpanded\proxies\CommonProxy.java" md5: 603e064024b7d315efa13a81a24ca60d
+@|me\orangeflare\vanillaexpanded\proxies\CommonProxy.java|8|46|me.orangeflare.vanillaexpanded.proxies|package|me.orangeflare.vanillaexpanded.proxies|(file)
+Class Start: me.orangeflare.vanillaexpanded.proxies.CommonProxy
+   @|me\orangeflare\vanillaexpanded\proxies\CommonProxy.java|95|106|CommonProxy|class|me.orangeflare.vanillaexpanded.proxies.CommonProxy
+   Method Start: registerItemRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|me\orangeflare\vanillaexpanded\proxies\CommonProxy.java|151|155|item|param|me.orangeflare.vanillaexpanded.proxies.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|me\orangeflare\vanillaexpanded\proxies\CommonProxy.java|161|165|meta|param|me.orangeflare.vanillaexpanded.proxies.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|meta|1
+      @|me\orangeflare\vanillaexpanded\proxies\CommonProxy.java|174|176|id|param|me.orangeflare.vanillaexpanded.proxies.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|id|2
+      @|me\orangeflare\vanillaexpanded\proxies\CommonProxy.java|125|145|registerItemRenderer|method|me.orangeflare.vanillaexpanded.proxies.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|me\orangeflare\vanillaexpanded\proxies\CommonProxy.java|146|150|Item|class|net.minecraft.item.Item
+      @|me\orangeflare\vanillaexpanded\proxies\CommonProxy.java|167|173|String|class|java.lang.String
+   Method End: registerItemRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+   Method Start: registerVariantRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;Ljava/lang/String;)V
+      @|me\orangeflare\vanillaexpanded\proxies\CommonProxy.java|226|230|item|param|me.orangeflare.vanillaexpanded.proxies.CommonProxy|registerVariantRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;Ljava/lang/String;)V|item|0
+      @|me\orangeflare\vanillaexpanded\proxies\CommonProxy.java|236|240|meta|param|me.orangeflare.vanillaexpanded.proxies.CommonProxy|registerVariantRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;Ljava/lang/String;)V|meta|1
+      @|me\orangeflare\vanillaexpanded\proxies\CommonProxy.java|249|257|filename|param|me.orangeflare.vanillaexpanded.proxies.CommonProxy|registerVariantRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;Ljava/lang/String;)V|filename|2
+      @|me\orangeflare\vanillaexpanded\proxies\CommonProxy.java|266|268|id|param|me.orangeflare.vanillaexpanded.proxies.CommonProxy|registerVariantRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;Ljava/lang/String;)V|id|3
+      @|me\orangeflare\vanillaexpanded\proxies\CommonProxy.java|197|220|registerVariantRenderer|method|me.orangeflare.vanillaexpanded.proxies.CommonProxy|registerVariantRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;Ljava/lang/String;)V
+      @|me\orangeflare\vanillaexpanded\proxies\CommonProxy.java|221|225|Item|class|net.minecraft.item.Item
+      @|me\orangeflare\vanillaexpanded\proxies\CommonProxy.java|242|248|String|class|java.lang.String
+      @|me\orangeflare\vanillaexpanded\proxies\CommonProxy.java|259|265|String|class|java.lang.String
+   Method End: registerVariantRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;Ljava/lang/String;)V
+Class End  : me.orangeflare.vanillaexpanded.proxies.CommonProxy
+endProcessing "me\orangeflare\vanillaexpanded\proxies\CommonProxy.java"
+
