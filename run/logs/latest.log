@@ -1,27 +1,28 @@
-[16:02:15] [main/INFO]: Setting user: Player977
-[16:02:17] [main/WARN]: Skipping bad option: lastServer:
-[16:02:17] [main/INFO]: LWJGL Version: 2.9.4
-[16:02:21] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Vanilla Expanded
-[16:02:23] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[16:02:23] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[16:02:23] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:02:23] [Thread-5/INFO]: OpenAL initialized.
-[16:02:23] [Sound Library Loader/INFO]: Sound engine started
-[16:02:25] [main/INFO]: Created: 512x512 textures-atlas
-[16:02:26] [main/WARN]: Skipping bad option: lastServer:
-[16:02:26] [main/INFO]: Narrator library for x64 successfully loaded
-[16:02:31] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
-[16:02:31] [Server thread/INFO]: Generating keypair
-[16:02:32] [Server thread/INFO]: Loaded 488 advancements
-[16:02:32] [Server thread/INFO]: Preparing start region for level 0
-[16:02:33] [Server thread/INFO]: Changing view distance to 12, from 10
-[16:02:34] [Server thread/INFO]: Player977[local:E:1faa787b] logged in with entity id 237 at (404.69999998807907, 4.0, -46.2155293162889)
-[16:02:34] [Server thread/INFO]: Player977 joined the game
-[16:02:35] [Server thread/INFO]: Saving and pausing game...
-[16:02:35] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[16:02:35] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[16:02:35] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[16:02:35] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@17086092[id=9e5d41e7-4785-3b2f-8261-593dade57f6e,name=Player977,properties={},legacy=false]
+[17:34:03] [main/INFO]: Setting user: Player250
+[17:34:06] [main/WARN]: Skipping bad option: lastServer:
+[17:34:06] [main/INFO]: LWJGL Version: 2.9.4
+[17:34:09] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Vanilla Expanded
+[17:34:10] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:34:10] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[17:34:10] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:34:10] [Thread-5/INFO]: OpenAL initialized.
+[17:34:11] [Sound Library Loader/INFO]: Sound engine started
+[17:34:13] [main/INFO]: Created: 512x512 textures-atlas
+[17:34:14] [main/WARN]: Skipping bad option: lastServer:
+[17:34:14] [main/INFO]: Narrator library for x64 successfully loaded
+[17:34:25] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[17:34:29] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[17:34:29] [Server thread/INFO]: Generating keypair
+[17:34:29] [Server thread/INFO]: Loaded 488 advancements
+[17:34:29] [Server thread/INFO]: Preparing start region for level 0
+[17:34:30] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:34:31] [Server thread/INFO]: Player250[local:E:f16fed76] logged in with entity id 117 at (300.2587187556753, 4.0, 58.96103218171288)
+[17:34:31] [Server thread/INFO]: Player250 joined the game
+[17:34:32] [Server thread/INFO]: Saving and pausing game...
+[17:34:32] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[17:34:32] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[17:34:32] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[17:34:32] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@181b4125[id=c98187a9-e17b-3f48-8a33-882e62d18d19,name=Player250,properties={},legacy=false]
 com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
 	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
@@ -43,13 +44,19 @@ com.mojang.authlib.exceptions.AuthenticationException: The client has sent too m
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_151]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_151]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_151]
-[16:02:37] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[16:03:01] [main/INFO]: Stopping!
-[16:03:01] [Server thread/INFO]: Stopping server
-[16:03:01] [Server thread/INFO]: Saving players
-[16:03:01] [Server thread/INFO]: Saving worlds
-[16:03:01] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[16:03:01] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[16:03:01] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[16:03:01] [main/INFO]: SoundSystem shutting down...
-[16:03:02] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+[17:49:58] [Server thread/INFO]: Saving and pausing game...
+[17:49:58] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[17:49:58] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[17:49:58] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[17:49:58] [Server thread/INFO]: Stopping server
+[17:49:58] [Server thread/INFO]: Saving players
+[17:49:58] [Server thread/INFO]: Player250 lost connection: Disconnected
+[17:49:58] [Server thread/INFO]: Player250 left the game
+[17:49:58] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[17:49:58] [Server thread/INFO]: Saving worlds
+[17:49:58] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[17:49:58] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[17:49:58] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[17:50:00] [main/INFO]: Stopping!
+[17:50:00] [main/INFO]: SoundSystem shutting down...
+[17:50:00] [main/WARN]: Author: Paul Lamb, www.paulscode.com

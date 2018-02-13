@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "vanillaexpanded:blocks/redstone_alloy_block"
+    }
+}

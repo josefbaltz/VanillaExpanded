@@ -11,12 +11,12 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
 
 public class BlockBase extends Block implements IHasModel {
-    public BlockBase(String name, Material material) {
+    public BlockBase(String name, Material material, Float hardness) {
         super(material);
         setUnlocalizedName(name);
         setRegistryName(name);
         setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
-
+        setHardness(hardness);
         BlockInit.BLOCKS.add(this);
         ItemInit.ITEMS.add(new ItemBlock(this).setRegistryName(this.getRegistryName()));
     }
