@@ -18,9 +18,10 @@ public class Main {
 
     @Mod.EventHandler
     public static void preInit(FMLPreInitializationEvent event) {  }
+
     @Mod.EventHandler
-    public static void preInit(FMLInitializationEvent event) {
-        SmeltingHandler.registerSmeltingRecipes(); }
+    public static void preInit(FMLInitializationEvent event) { SmeltingHandler.registerSmeltingRecipes(); }
+
     @Mod.EventHandler
     public static void preInit(FMLPostInitializationEvent event) {  }
 }
