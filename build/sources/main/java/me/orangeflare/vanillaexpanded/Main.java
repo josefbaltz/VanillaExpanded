@@ -1,5 +1,6 @@
 package me.orangeflare.vanillaexpanded;
 
+import me.orangeflare.vanillaexpanded.handlers.SmeltingHandler;
 import me.orangeflare.vanillaexpanded.proxies.CommonProxy;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
@@ -18,7 +19,8 @@ public class Main {
     @Mod.EventHandler
     public static void preInit(FMLPreInitializationEvent event) {  }
     @Mod.EventHandler
-    public static void preInit(FMLInitializationEvent event) {  }
+    public static void preInit(FMLInitializationEvent event) {
+        SmeltingHandler.registerSmeltingRecipes(); }
     @Mod.EventHandler
     public static void preInit(FMLPostInitializationEvent event) {  }
 }
