@@ -9,10 +9,11 @@
       <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/taskArtifacts.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshotUsage.bin" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshotUsage.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshots.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/gradle.log" afterPath="$PROJECT_DIR$/.gradle/gradle.log" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/me/orangeflare/vanillaexpanded/Main.class" afterPath="$PROJECT_DIR$/build/classes/main/me/orangeflare/vanillaexpanded/Main.class" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/me/orangeflare/vanillaexpanded/handlers/SmeltingHandler.class" afterPath="$PROJECT_DIR$/build/classes/main/me/orangeflare/vanillaexpanded/handlers/SmeltingHandler.class" />
       <change beforePath="$PROJECT_DIR$/build/libs/vanillaexpanded-1.0.0.0.jar" afterPath="$PROJECT_DIR$/build/libs/vanillaexpanded-1.0.0.0.jar" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/Main.java" afterPath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/Main.java" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/handlers/SmeltingHandler.java" afterPath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/handlers/SmeltingHandler.java" />
       <change beforePath="$PROJECT_DIR$/run/config/splash.properties" afterPath="$PROJECT_DIR$/run/config/splash.properties" />
       <change beforePath="$PROJECT_DIR$/run/logs/2018-02-13-1.log.gz" afterPath="$PROJECT_DIR$/run/logs/2018-02-13-1.log.gz" />
       <change beforePath="$PROJECT_DIR$/run/logs/2018-02-13-2.log.gz" afterPath="$PROJECT_DIR$/run/logs/2018-02-13-2.log.gz" />
@@ -39,6 +40,7 @@
       <change beforePath="$PROJECT_DIR$/run/saves/New World/session.lock" afterPath="$PROJECT_DIR$/run/saves/New World/session.lock" />
       <change beforePath="$PROJECT_DIR$/run/usercache.json" afterPath="$PROJECT_DIR$/run/usercache.json" />
       <change beforePath="$PROJECT_DIR$/run/usernamecache.json" afterPath="$PROJECT_DIR$/run/usernamecache.json" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/SmeltingHandler.java" afterPath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/SmeltingHandler.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -106,24 +108,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="redstone_axe.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/assets/vanillaexpanded/textures/items/redstone_axe.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="redstone_clay.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/assets/vanillaexpanded/textures/items/redstone_clay.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RegistryHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/RegistryHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="327">
               <caret line="30" column="43" lean-forward="false" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -132,11 +120,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SmeltingHandler.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SmeltingHandler.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/SmeltingHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="107" lean-forward="false" selection-start-line="8" selection-start-column="107" selection-end-line="8" selection-end-column="107" />
+            <state relative-caret-position="102">
+              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -917,8 +905,8 @@
         <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/LegacyHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/RegistryHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/SmeltRegistryHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/SmeltingHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/SmeltingHandler.java" />
       </list>
     </option>
   </component>
@@ -1357,8 +1345,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/blocks/blockBlueprint.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/items/devItem.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/items/itemBluepirnt.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/items/itemDev.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/mainServer.java" />
@@ -1482,26 +1468,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/LegacyRecipies.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/LegacyHandler.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/SmeltRegistryHandler.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="74" lean-forward="false" selection-start-line="22" selection-start-column="74" selection-end-line="22" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/SmeltingHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="107" lean-forward="false" selection-start-line="8" selection-start-column="107" selection-end-line="8" selection-end-column="107" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/items/ItemBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1553,10 +1519,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/vanillaexpanded/textures/items/redstone_axe.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/vanillaexpanded/textures/items/redstone_clay.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="74" lean-forward="false" selection-start-line="22" selection-start-column="74" selection-end-line="22" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/RegistryHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="327">
           <caret line="30" column="43" lean-forward="false" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/SmeltingHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

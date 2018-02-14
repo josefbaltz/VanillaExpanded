@@ -1,29 +1,28 @@
-[20:17:28] [main/INFO]: Setting user: Player20
-[20:17:30] [main/WARN]: Skipping bad option: lastServer:
-[20:17:30] [main/INFO]: LWJGL Version: 2.9.4
-[20:17:33] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Vanilla Expanded
-[20:17:35] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[20:17:35] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[20:17:35] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[20:17:35] [Thread-5/INFO]: OpenAL initialized.
-[20:17:35] [Sound Library Loader/INFO]: Sound engine started
-[20:17:37] [main/INFO]: Created: 512x512 textures-atlas
-[20:17:38] [main/WARN]: Skipping bad option: lastServer:
-[20:17:38] [main/INFO]: Narrator library for x64 successfully loaded
-[20:17:46] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
-[20:17:46] [Server thread/INFO]: Generating keypair
-[20:17:46] [Server thread/INFO]: Loaded 488 advancements
-[20:17:46] [Server thread/INFO]: Preparing start region for level 0
-[20:17:47] [Server thread/INFO]: Changing view distance to 12, from 10
-[20:17:47] [Server thread/INFO]: Player20[local:E:75b299f5] logged in with entity id 115 at (304.7168851915989, 4.0, 46.38170906990868)
-[20:17:47] [Server thread/INFO]: Player20 joined the game
-[20:17:47] [Server thread/INFO]: Player20 has made the advancement [Isn't It Iron Pick]
-[20:17:47] [Server thread/INFO]: Player20 has made the advancement [Getting an Upgrade]
-[20:17:48] [Server thread/INFO]: Saving and pausing game...
-[20:17:49] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[20:17:49] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[20:17:49] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[20:17:49] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@5fbe867f[id=de358e9d-8e5f-32cd-b09f-d8bdf3008cfe,name=Player20,properties={},legacy=false]
+[20:32:33] [main/INFO]: Setting user: Player750
+[20:32:35] [main/WARN]: Skipping bad option: lastServer:
+[20:32:35] [main/INFO]: LWJGL Version: 2.9.4
+[20:32:38] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Vanilla Expanded
+[20:32:40] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:32:40] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[20:32:40] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:32:40] [Thread-5/INFO]: OpenAL initialized.
+[20:32:41] [Sound Library Loader/INFO]: Sound engine started
+[20:32:43] [main/INFO]: Created: 512x512 textures-atlas
+[20:32:44] [main/WARN]: Skipping bad option: lastServer:
+[20:32:44] [main/INFO]: Narrator library for x64 successfully loaded
+[20:32:53] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[20:32:53] [Server thread/INFO]: Generating keypair
+[20:32:53] [Server thread/INFO]: Loaded 488 advancements
+[20:32:53] [Server thread/INFO]: Preparing start region for level 0
+[20:32:54] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:32:55] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:32:55] [Server thread/INFO]: Player750[local:E:2d26efe1] logged in with entity id 113 at (279.2029081604748, 5.0, 50.366086181436636)
+[20:32:55] [Server thread/INFO]: Player750 joined the game
+[20:32:56] [Server thread/INFO]: Saving and pausing game...
+[20:32:56] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[20:32:56] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[20:32:56] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[20:32:56] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@3789e92e[id=2659329e-1c65-3850-9659-d27fc655aa3c,name=Player750,properties={},legacy=false]
 com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
 	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
@@ -45,24 +44,32 @@ com.mojang.authlib.exceptions.AuthenticationException: The client has sent too m
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_151]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_151]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_151]
-[20:17:49] [main/INFO]: [CHAT] Player20 has made the advancement [Isn't It Iron Pick]
-[20:17:49] [main/INFO]: [CHAT] Player20 has made the advancement [Getting an Upgrade]
-[20:17:49] [main/INFO]: Loaded 20 advancements
-[20:17:49] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[20:17:51] [Server thread/INFO]: Saving and pausing game...
-[20:17:51] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[20:17:51] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[20:17:51] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[20:18:25] [Server thread/INFO]: Saving and pausing game...
-[20:18:25] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[20:18:25] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[20:18:25] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[20:18:26] [main/INFO]: Stopping!
-[20:18:26] [Server thread/INFO]: Stopping server
-[20:18:26] [Server thread/INFO]: Saving players
-[20:18:26] [Server thread/INFO]: Saving worlds
-[20:18:26] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[20:18:26] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[20:18:26] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[20:18:26] [main/INFO]: SoundSystem shutting down...
-[20:18:26] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+[20:33:59] [Server thread/INFO]: [Player750: Set own game mode to Creative Mode]
+[20:33:59] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[20:34:03] [Server thread/INFO]: [Player750: Set own game mode to Survival Mode]
+[20:34:03] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[20:35:17] [Server thread/INFO]: [Player750: Set own game mode to Creative Mode]
+[20:35:17] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[20:35:27] [main/INFO]: Loaded 2 advancements
+[20:35:34] [Server thread/INFO]: [Player750: Set own game mode to Survival Mode]
+[20:35:34] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[20:38:16] [main/INFO]: [CHAT] Usage: /recipe <give|take> [player] <name|*>
+[20:38:24] [Server thread/INFO]: [Player750: Successfully given all recipes to Player750]
+[20:38:24] [main/INFO]: [CHAT] Successfully given all recipes to Player750
+[20:38:24] [main/INFO]: Loaded 311 advancements
+[20:41:03] [Server thread/INFO]: [Player750: Set own game mode to Creative Mode]
+[20:41:03] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[20:41:06] [Server thread/INFO]: [Player750: Set own game mode to Survival Mode]
+[20:41:06] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[20:41:11] [Server thread/INFO]: [Player750: Set own game mode to Creative Mode]
+[20:41:11] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[20:41:15] [main/INFO]: Loaded 314 advancements
+[20:49:01] [main/INFO]: Stopping!
+[20:49:01] [Server thread/INFO]: Stopping server
+[20:49:01] [Server thread/INFO]: Saving players
+[20:49:01] [Server thread/INFO]: Saving worlds
+[20:49:01] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[20:49:01] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[20:49:01] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[20:49:01] [main/INFO]: SoundSystem shutting down...
+[20:49:01] [main/WARN]: Author: Paul Lamb, www.paulscode.com
