@@ -5,3 +5,5 @@ tile.block_dev.name=Dev Block
 item.redstone_clay.name=Redstone Clay
 item.redstone_alloy_ingot.name=Redstone Alloy
 tile.redstone_alloy_block.name=Block of Redstone Alloy
+tile.cyan_flower.name=Cyan Flower
+itemGroup.vanillaExpanded=Vanilla Expanded

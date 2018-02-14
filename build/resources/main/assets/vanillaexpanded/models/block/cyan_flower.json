@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "vanillaexpanded:blocks/cyan_flower"
+    }
+}

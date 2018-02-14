@@ -1,0 +1,14 @@
+[16:20:36] [main/INFO]: Setting user: Player997
+[16:20:38] [main/WARN]: Skipping bad option: lastServer:
+[16:20:38] [main/INFO]: LWJGL Version: 2.9.4
+[16:20:42] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Vanilla Expanded
+[16:20:43] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:20:43] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[16:20:43] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:20:43] [Thread-5/INFO]: OpenAL initialized.
+[16:20:44] [Sound Library Loader/INFO]: Sound engine started
+[16:20:45] [main/INFO]: Created: 512x512 textures-atlas
+[16:20:46] [main/WARN]: Unable to resolve texture due to upward reference: #cross in minecraft:models/block/cross
+[16:20:47] [main/WARN]: Skipping bad option: lastServer:
+[16:20:47] [main/INFO]: Narrator library for x64 successfully loaded
+[16:20:57] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
