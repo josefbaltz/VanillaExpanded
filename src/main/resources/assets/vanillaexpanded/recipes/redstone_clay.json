@@ -9,6 +9,7 @@
     }
   ],
   "result": {
-    "item": "vanillaexpanded:redstone_clay"
+    "item": "vanillaexpanded:redstone_clay",
+    "count": 2
   }
 }

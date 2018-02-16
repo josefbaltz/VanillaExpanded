@@ -7,3 +7,14 @@ item.redstone_alloy_ingot.name=Redstone Alloy
 tile.redstone_alloy_block.name=Block of Redstone Alloy
 tile.cyan_flower.name=Cyan Flower
 itemGroup.vanillaExpanded=Vanilla Expanded
+
+item.redstone_hoe.name=Redstone Hoe
+item.redstone_axe.name=Redstone Axe
+item.redstone_pickaxe.name=Redstone Pickaxe
+item.redstone_shovel.name=Redstone Shovel
+item.redstone_sword.name=Redstone Sword
+
+item.redstone_helmet.name=Redstone Helmet
+item.redstone_chestplate.name=Redstone Chestplate
+item.redstone_leggings.name=Redstone Leggings
+item.redstone_boots.name=Redstone Boots

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "R R",
+        "RRR",
+        "RRR"
+    ],
+    "key": {
+        "R": {
+            "item": "vanillaexpanded:redstone_alloy_ingot"
+        }
+    },
+    "result": {
+        "item": "vanillaexpanded:redstone_chestplate"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RRR",
+        " S ",
+        " S "
+    ],
+    "key": {
+        "R": {
+            "item": "vanillaexpanded:redstone_alloy_ingot"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "vanillaexpanded:redstone_pickaxe"
+    }
+}
