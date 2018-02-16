@@ -9,6 +9,7 @@ import net.minecraft.block.Block;
 import net.minecraft.block.BlockBush;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.state.IBlockState;
+import net.minecraft.init.Blocks;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
 import net.minecraft.util.math.AxisAlignedBB;
@@ -33,5 +34,19 @@ public class PlantBase extends BlockBush implements IHasModel {
     @Override
     public void registerModels() {
         Main.proxy.registerItemRenderer(Item.getItemFromBlock(this), 0, "inventory");
+    }
+
+    @Override
+    public net.minecraftforge.common.EnumPlantType getPlantType(net.minecraft.world.IBlockAccess world, BlockPos pos)
+    {
+        return net.minecraftforge.common.EnumPlantType.Plains;
+    }
+
+    @Override
+    public IBlockState getPlant(net.minecraft.world.IBlockAccess world, BlockPos pos)
+    {
+        IBlockState state = world.getBlockState(pos);
+        if (state.getBlock() != this) return getDefaultState();
+        return state;
     }
 }

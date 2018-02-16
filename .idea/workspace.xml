@@ -11,30 +11,20 @@
       <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshots.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/gradle.log" afterPath="$PROJECT_DIR$/.gradle/gradle.log" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/me/orangeflare/vanillaexpanded/Main.class" afterPath="$PROJECT_DIR$/build/classes/main/me/orangeflare/vanillaexpanded/Main.class" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/me/orangeflare/vanillaexpanded/handlers/RegistryHandler.class" afterPath="$PROJECT_DIR$/build/classes/main/me/orangeflare/vanillaexpanded/handlers/RegistryHandler.class" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/me/orangeflare/vanillaexpanded/handlers/SmeltingHandler.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/build/classes/main/me/orangeflare/vanillaexpanded/init/BlockInit.class" afterPath="$PROJECT_DIR$/build/classes/main/me/orangeflare/vanillaexpanded/init/BlockInit.class" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/me/orangeflare/vanillaexpanded/objects/blocks/BlockBase.class" afterPath="$PROJECT_DIR$/build/classes/main/me/orangeflare/vanillaexpanded/objects/blocks/BlockBase.class" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/me/orangeflare/vanillaexpanded/objects/items/ItemBase.class" afterPath="$PROJECT_DIR$/build/classes/main/me/orangeflare/vanillaexpanded/objects/items/ItemBase.class" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/me/orangeflare/vanillaexpanded/objects/blocks/PlantBase.class" afterPath="$PROJECT_DIR$/build/classes/main/me/orangeflare/vanillaexpanded/objects/blocks/PlantBase.class" />
       <change beforePath="$PROJECT_DIR$/build/libs/vanillaexpanded-1.0.0.0.jar" afterPath="$PROJECT_DIR$/build/libs/vanillaexpanded-1.0.0.0.jar" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/vanillaexpanded/lang/en_US.lang" afterPath="$PROJECT_DIR$/build/resources/main/assets/vanillaexpanded/lang/en_US.lang" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/IHasModel.java" afterPath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/IHasModel.java" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/Main.java" afterPath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/Main.java" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/handlers/RegistryHandler.java" afterPath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/handlers/RegistryHandler.java" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/handlers/SmeltingHandler.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/init/BlockInit.java" afterPath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/init/BlockInit.java" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/init/ItemInit.java" afterPath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/init/ItemInit.java" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/objects/blocks/BlockBase.java" afterPath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/objects/blocks/BlockBase.java" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/objects/items/ItemBase.java" afterPath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/objects/items/ItemBase.java" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/objects/blocks/PlantBase.java" afterPath="$PROJECT_DIR$/build/sources/main/java/me/orangeflare/vanillaexpanded/objects/blocks/PlantBase.java" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/makeStart/extracted/net/minecraftforge/gradle/GradleStartCommon.java" afterPath="$PROJECT_DIR$/build/tmp/makeStart/extracted/net/minecraftforge/gradle/GradleStartCommon.java" />
       <change beforePath="$PROJECT_DIR$/run/config/splash.properties" afterPath="$PROJECT_DIR$/run/config/splash.properties" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2018-02-13-1.log.gz" afterPath="$PROJECT_DIR$/run/logs/2018-02-13-1.log.gz" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2018-02-13-2.log.gz" afterPath="$PROJECT_DIR$/run/logs/2018-02-13-2.log.gz" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2018-02-13-3.log.gz" afterPath="$PROJECT_DIR$/run/logs/2018-02-13-3.log.gz" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2018-02-13-4.log.gz" afterPath="$PROJECT_DIR$/run/logs/2018-02-13-4.log.gz" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2018-02-13-5.log.gz" afterPath="$PROJECT_DIR$/run/logs/2018-02-13-5.log.gz" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2018-02-13-6.log.gz" afterPath="$PROJECT_DIR$/run/logs/2018-02-13-6.log.gz" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2018-02-13-7.log.gz" afterPath="$PROJECT_DIR$/run/logs/2018-02-13-7.log.gz" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2018-02-14-1.log.gz" afterPath="$PROJECT_DIR$/run/logs/2018-02-14-1.log.gz" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2018-02-14-2.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2018-02-14-3.log.gz" afterPath="$PROJECT_DIR$/run/logs/2018-02-14-3.log.gz" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2018-02-14-4.log.gz" afterPath="$PROJECT_DIR$/run/logs/2018-02-14-4.log.gz" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2018-02-14-5.log.gz" afterPath="$PROJECT_DIR$/run/logs/2018-02-14-5.log.gz" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2018-02-14-6.log.gz" afterPath="$PROJECT_DIR$/run/logs/2018-02-14-6.log.gz" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2018-02-14-7.log.gz" afterPath="$PROJECT_DIR$/run/logs/2018-02-14-7.log.gz" />
       <change beforePath="$PROJECT_DIR$/run/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/run/logs/fml-client-1.log" />
       <change beforePath="$PROJECT_DIR$/run/logs/fml-client-2.log" afterPath="$PROJECT_DIR$/run/logs/fml-client-2.log" />
       <change beforePath="$PROJECT_DIR$/run/logs/fml-client-3.log" afterPath="$PROJECT_DIR$/run/logs/fml-client-3.log" />
@@ -43,25 +33,22 @@
       <change beforePath="$PROJECT_DIR$/run/logs/latest.log" afterPath="$PROJECT_DIR$/run/logs/latest.log" />
       <change beforePath="$PROJECT_DIR$/run/saves/New World/DIM-1/data/villages_nether.dat" afterPath="$PROJECT_DIR$/run/saves/New World/DIM-1/data/villages_nether.dat" />
       <change beforePath="$PROJECT_DIR$/run/saves/New World/DIM1/data/villages_end.dat" afterPath="$PROJECT_DIR$/run/saves/New World/DIM1/data/villages_end.dat" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/advancements/c98187a9-e17b-3f48-8a33-882e62d18d19.json" afterPath="$PROJECT_DIR$/run/saves/New World/advancements/c98187a9-e17b-3f48-8a33-882e62d18d19.json" />
       <change beforePath="$PROJECT_DIR$/run/saves/New World/data/villages.dat" afterPath="$PROJECT_DIR$/run/saves/New World/data/villages.dat" />
       <change beforePath="$PROJECT_DIR$/run/saves/New World/level.dat" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat" />
       <change beforePath="$PROJECT_DIR$/run/saves/New World/level.dat_old" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat_old" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/playerdata/c98187a9-e17b-3f48-8a33-882e62d18d19.dat" afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/c98187a9-e17b-3f48-8a33-882e62d18d19.dat" />
       <change beforePath="$PROJECT_DIR$/run/saves/New World/region/r.0.-1.mca" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.0.-1.mca" />
       <change beforePath="$PROJECT_DIR$/run/saves/New World/region/r.0.0.mca" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.0.0.mca" />
       <change beforePath="$PROJECT_DIR$/run/saves/New World/region/r.1.-1.mca" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.1.-1.mca" />
       <change beforePath="$PROJECT_DIR$/run/saves/New World/region/r.1.0.mca" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.1.0.mca" />
       <change beforePath="$PROJECT_DIR$/run/saves/New World/session.lock" afterPath="$PROJECT_DIR$/run/saves/New World/session.lock" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/stats/c98187a9-e17b-3f48-8a33-882e62d18d19.json" afterPath="$PROJECT_DIR$/run/saves/New World/stats/c98187a9-e17b-3f48-8a33-882e62d18d19.json" />
       <change beforePath="$PROJECT_DIR$/run/usercache.json" afterPath="$PROJECT_DIR$/run/usercache.json" />
       <change beforePath="$PROJECT_DIR$/run/usernamecache.json" afterPath="$PROJECT_DIR$/run/usernamecache.json" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/IHasModel.java" afterPath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/IHasModel.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/Main.java" afterPath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/RegistryHandler.java" afterPath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/RegistryHandler.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/SmeltingHandler.java" afterPath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/MiscHandler.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/MiscHandler.java" afterPath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/MiscHandler.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/init/BlockInit.java" afterPath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/init/BlockInit.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/init/ItemInit.java" afterPath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/init/ItemInit.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/blocks/BlockBase.java" afterPath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/blocks/BlockBase.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/items/ItemBase.java" afterPath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/items/ItemBase.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/vanillaexpanded/lang/en_US.lang" afterPath="$PROJECT_DIR$/src/main/resources/assets/vanillaexpanded/lang/en_US.lang" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/blocks/PlantBase.java" afterPath="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/blocks/PlantBase.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -74,55 +61,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DockManager">
-    <window id="2">
+    <window id="1">
       <content type="file-editors">
         <state>
           <leaf>
-            <file leaf-file-name="ItemShield.java" pinned="false" current-in-tab="false">
-              <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2601/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2601-sources.jar!/net/minecraft/item/ItemShield.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="68">
-                    <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="Block.java" pinned="false" current-in-tab="false">
-              <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2601/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2601-sources.jar!/net/minecraft/block/Block.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="885">
-                    <caret line="2675" column="57" lean-forward="false" selection-start-line="2675" selection-start-column="46" selection-end-line="2675" selection-end-column="57" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="BlockBush.java" pinned="false" current-in-tab="false">
-              <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2601/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2601-sources.jar!/net/minecraft/block/BlockBush.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="799">
-                    <caret line="68" column="83" lean-forward="false" selection-start-line="68" selection-start-column="83" selection-end-line="68" selection-end-column="83" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
             <file leaf-file-name="BlockFlower.java" pinned="false" current-in-tab="true">
               <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2601/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2601-sources.jar!/net/minecraft/block/BlockFlower.java">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="816">
-                    <caret line="97" column="17" lean-forward="false" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="Biome.java" pinned="false" current-in-tab="false">
-              <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2601/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2601-sources.jar!/net/minecraft/world/biome/Biome.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="1224">
-                    <caret line="180" column="0" lean-forward="false" selection-start-line="180" selection-start-column="0" selection-end-line="183" selection-end-column="5" />
+                  <state relative-caret-position="340">
+                    <caret line="126" column="85" lean-forward="true" selection-start-line="126" selection-start-column="85" selection-end-line="126" selection-end-column="85" />
                     <folding />
                   </state>
                 </provider>
@@ -176,118 +123,148 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="60" lean-forward="false" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
-              <folding>
-                <element signature="e#880#881#0" expanded="true" />
-                <element signature="e#933#934#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MiscHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/MiscHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ItemBase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/items/ItemBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#660#661#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RegistryHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/RegistryHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BlockBase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/blocks/BlockBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="52" lean-forward="true" selection-start-line="0" selection-start-column="52" selection-end-line="0" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1004#1005#0" expanded="true" />
-                <element signature="e#1096#1097#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlantBase.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/blocks/PlantBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1425#1426#0" expanded="true" />
-                <element signature="e#1517#1518#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cyan_flower.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/assets/vanillaexpanded/recipes/cyan_flower.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BlockInit.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/init/BlockInit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="13" column="58" lean-forward="true" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
-              <folding>
-                <element signature="e#468#475#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="redstone_alloy_ingot_fromblock.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/assets/vanillaexpanded/recipes/redstone_alloy_ingot_fromblock.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="BlockInit.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/init/BlockInit.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="187">
+                  <caret line="20" column="66" lean-forward="false" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
+                  <folding>
+                    <element signature="e#533#540#0" expanded="true" />
+                    <element signature="e#606#617#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="BlockBase.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/blocks/BlockBase.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#1004#1005#0" expanded="true" />
+                    <element signature="e#1096#1097#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="PlantBase.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/blocks/PlantBase.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="221">
+                  <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+                  <folding>
+                    <element signature="e#1505#1506#0" expanded="true" />
+                    <element signature="e#1597#1598#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ClientProxy.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/proxies/ClientProxy.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="68">
+                  <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CommonProxy.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/proxies/CommonProxy.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="68">
+                  <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="IHasModel.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/IHasModel.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="68">
+                  <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="INFO.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/INFO.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MiscHandler.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/MiscHandler.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ItemInit.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/init/ItemInit.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="68">
+                  <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="FlowerBase.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/blocks/FlowerBase.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="85">
+                  <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#357#358#0" expanded="true" />
+                    <element signature="e#399#400#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="FlowerBase.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/blocks/FlowerBase.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#357#358#0" expanded="true" />
+                    <element signature="e#399#400#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -963,7 +940,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/mainServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/mainClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/mainCommon.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mcmod.info" />
@@ -1010,14 +986,15 @@
         <option value="$PROJECT_DIR$/src/main/resources/assets/vanillaexpanded/models/item/cyan_flower.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/vanillaexpanded/models/block/cyan_flower.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/vanillaexpanded/recipes/cyan_flower.json" />
-        <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/MiscHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/blocks/PlantBase.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/init/BlockInit.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/world/gen/FlowerGen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/MiscHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/init/BlockInit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/blocks/PlantBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/blocks/FlowerBase.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -1038,7 +1015,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -1232,6 +1211,22 @@
               <item name="forgeSrc-1.12.2-14.23.1.2601.jar" type="462c0819:PsiDirectoryNode" />
               <item name="net" type="462c0819:PsiDirectoryNode" />
               <item name="minecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="block" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VanillaExpanded" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="forgeSrc-1.12.2-14.23.1.2601.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="minecraft" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VanillaExpanded" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="forgeSrc-1.12.2-14.23.1.2601.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="minecraft" type="462c0819:PsiDirectoryNode" />
               <item name="world" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1241,21 +1236,20 @@
               <item name="net" type="462c0819:PsiDirectoryNode" />
               <item name="minecraft" type="462c0819:PsiDirectoryNode" />
               <item name="world" type="462c0819:PsiDirectoryNode" />
-              <item name="biome" type="462c0819:PsiDirectoryNode" />
+              <item name="end" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MinecraftModding-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/assets/vanillaexpanded/textures/sourcefiles" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -1480,39 +1474,41 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2854145" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2854145" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22770199" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16579224" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16579224" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -1523,8 +1519,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zEC4D8B04B/bdv.class" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zEC4D4659C/a.class" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/7zEC4DF06EC/aa$a.class" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/7zEC4DC45DC/aa$b.class" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/7zEC4D2913C/aaa.class" />
@@ -1534,7 +1528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1548,24 +1541,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/LegacyRecipies.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/MiscHandler.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/SmeltRegistryHandler.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/proxies/CommonProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/proxies/ClientProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets/vanillaexpanded/textures/items/redstone_axe.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1580,7 +1555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1588,7 +1562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1596,7 +1569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1604,7 +1576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1612,9 +1583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1628">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1622,7 +1590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1630,15 +1597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/IHasModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1646,26 +1604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/init/ItemInit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="60" lean-forward="false" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
-          <folding>
-            <element signature="e#880#881#0" expanded="true" />
-            <element signature="e#933#934#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1673,7 +1611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1681,7 +1618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1689,7 +1625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1697,7 +1632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1705,15 +1639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/vanillaexpanded/recipes/redstone_alloy_ingot_fromblock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1721,7 +1646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
           <caret line="184" column="21" lean-forward="false" selection-start-line="184" selection-start-column="21" selection-end-line="184" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1729,7 +1653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1737,7 +1660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1745,7 +1667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="35" column="8" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1753,7 +1674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1761,32 +1681,166 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-98">
           <caret line="68" column="51" lean-forward="true" selection-start-line="68" selection-start-column="51" selection-end-line="68" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2601/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2601-sources.jar!/net/minecraft/world/biome/Biome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="180" column="0" lean-forward="false" selection-start-line="180" selection-start-column="0" selection-end-line="183" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/items/ItemBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#660#661#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2601/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2601-sources.jar!/net/minecraft/block/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45475">
+          <caret line="2675" column="57" lean-forward="false" selection-start-line="2675" selection-start-column="46" selection-end-line="2675" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/MiscHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/world/gen/FlowerGen.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/vanillaexpanded/recipes/cyan_flower.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        <state relative-caret-position="85">
+          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/vanillaexpanded/recipes/redstone_alloy_ingot_fromblock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2601/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2601-sources.jar!/net/minecraft/block/BlockBush.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="101" column="5" lean-forward="false" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#880#881#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/RegistryHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2601/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2601-sources.jar!/net/minecraft/world/biome/Biome.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/proxies/ClientProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="180" column="0" lean-forward="false" selection-start-line="180" selection-start-column="0" selection-end-line="183" selection-end-column="5" />
+        <state relative-caret-position="68">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/proxies/CommonProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/IHasModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/INFO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/init/ItemInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/MiscHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2601/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2601-sources.jar!/net/minecraft/block/BlockFlower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="126" column="85" lean-forward="true" selection-start-line="126" selection-start-column="85" selection-end-line="126" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/blocks/PlantBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="e#1505#1506#0" expanded="true" />
+            <element signature="e#1597#1598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/init/BlockInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20" column="66" lean-forward="false" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
+          <folding>
+            <element signature="e#533#540#0" expanded="true" />
+            <element signature="e#606#617#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/blocks/BlockBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="52" lean-forward="true" selection-start-line="0" selection-start-column="52" selection-end-line="0" selection-end-column="52" />
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1004#1005#0" expanded="true" />
@@ -1795,86 +1849,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/handlers/RegistryHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/items/ItemBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2601/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2601-sources.jar!/net/minecraft/block/Block.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="2675" column="57" lean-forward="false" selection-start-line="2675" selection-start-column="46" selection-end-line="2675" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2601/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2601-sources.jar!/net/minecraft/block/BlockBush.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="68" column="83" lean-forward="false" selection-start-line="68" selection-start-column="83" selection-end-line="68" selection-end-column="83" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/vanillaexpanded/recipes/cyan_flower.json">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/blocks/FlowerBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/init/BlockInit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="13" column="58" lean-forward="true" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
-          <folding>
-            <element signature="e#468#475#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.1.2601/snapshot/20171003/forgeSrc-1.12.2-14.23.1.2601-sources.jar!/net/minecraft/block/BlockFlower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="97" column="17" lean-forward="false" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/objects/blocks/PlantBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1425#1426#0" expanded="true" />
-            <element signature="e#1517#1518#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/orangeflare/vanillaexpanded/world/gen/FlowerGen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
